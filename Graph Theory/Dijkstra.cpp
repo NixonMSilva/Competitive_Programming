@@ -13,7 +13,8 @@
 #include <queue>
 #include <cstring>
 
-#define maxn 1005
+#define MAXN 1005
+#define INF 0x3F3F3F3F
 
 using namespace std;
 
